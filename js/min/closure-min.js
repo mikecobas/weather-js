@@ -1,0 +1,1 @@
+var Contador=function(){function n(n){r+=n}var r=0;return{incrementar:function(){n(1)},decrementar:function(){n(-1)},valor:function(){return r}}}();
